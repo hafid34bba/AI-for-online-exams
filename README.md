@@ -12,7 +12,14 @@ to tracks and know anything happened during exams using advanced Artificial inte
 ```email                     ```<br>
 ```pydrive                   ```<br>
 
-# How it work?
+# important technologies : 
+- face detection <br>
+- person , book , cell phone detection<br>
+- voice recognition<br>
+- screen recording <br>
+- webcam recording <br>
+
+
 
 
 
