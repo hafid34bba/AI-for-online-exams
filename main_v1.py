@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  1 22:45:22 2020
-
-@author: hp
-"""
 import pyautogui
 from zipfile import ZipFile
 import smtplib
