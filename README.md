@@ -3,15 +3,15 @@ As we know during online exams there is no surveillance , so that's project is a
 to tracks and know anything happened during exams using advanced Artificial intelligence technologies.
 
 # Requirements
-```
-tensorflow	2.3.1
-opencv-python	4.4.0.46	
-speechrecognition	3.8.1	
-pandas	1.0.5	
-pyautogui	0.9.52	
-email
-pydrive
-```
+
+```tensorflow	2.3.1        ``` 
+```opencv-python	4.4.0.46	 ```
+```speechrecognition	3.8.1	 ```
+```pandas	1.0.5	           ```
+```pyautogui	0.9.52	       ```
+```email                    ```
+```pydrive                  ```
+
 
 # License 
 
