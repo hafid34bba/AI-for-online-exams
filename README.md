@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 2 - At lines 647-649 put your email information access and email receivers.
 
-3 - Download yolov3.weights file from here https://pjreddie.com/media/files/yolov3.weights
+3 - Download yolov3.weights file from here [weights](https://pjreddie.com/media/files/yolov3.weights)
 and add to models folder.
 
 # Which one main_v1 or main_v2 ? 
