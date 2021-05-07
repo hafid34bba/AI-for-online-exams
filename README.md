@@ -45,6 +45,14 @@ main_v1 is faster tha main_v2 because it does'nt contain screen recoreder
 <b> Note </b>
 if you want to use main_v2 follow this article to configure DRIVE api and download client_secret.json<br>
 and put inside project directory.
+
+# How teacher will use it?
+- follow all the precednt steps
+- Add to users.csv file Students names , family names and specific password for each one.
+- generate .exe file for the project
+- share the .exe and password with students
+- student should execute .exe 2 min (just example ) before the start of exam and close after submitting their answers via email maybe.
+
 # License 
 
 ```
