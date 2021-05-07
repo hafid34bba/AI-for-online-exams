@@ -59,12 +59,12 @@ if you want to use main_v2 follow this article to configure DRIVE api and downlo
 and put inside project directory.
 
 # How teacher will use it?
--generate .exe file for the project (or convert it to simple desktop app) <br>
--create users.csv file that contain Students names , family names and specific password for each one. <br>
--share the .exe and password with students ). <br>
--student should execute .exe 2 min (just example ) before the start of exam <br>
+- generate .exe file for the project (or convert it to simple desktop app) <br>
+- create users.csv file that contain Students names , family names and specific password for each one. <br>
+- share the .exe and password with students ). <br>
+- student should execute .exe 2 min (just example ) before the start of exam <br>
 and acces the app using his name, family name and password. <br>
--close after submitting their answers via email maybe.<br>
+- close after submitting their answers via email maybe.<br>
 
 # License 
 
