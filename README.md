@@ -1,6 +1,6 @@
 # AI-for-online-exams
 As we know during online exams there is no surveillance , so that's project is a good help for teachers<br>
-to tracks and know anything happened during exams using advanced Artificial intelligence technologies.
+to tracks and know anything happened during exams using Artificial intelligence technologies.
 
 # Requirements
 
