@@ -33,11 +33,14 @@ Its will inform him about all what heppend during exams by sending him a email t
 - sound detected 'hello' at .... <br>
 
 # Steps to run the demo
-1 - install the dependencies
+1 - Install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
 2 - At lines 647-649 put your email information access and email receivers.
+
+3 - Download yolov3.weights file from here https://pjreddie.com/media/files/yolov3.weights
+and add to models folder.
 
 # Which one main_v1 or main_v2 ? 
 main_v1 is faster tha main_v2 because it does'nt contain screen recoreder
