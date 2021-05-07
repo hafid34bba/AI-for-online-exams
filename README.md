@@ -37,7 +37,7 @@ Its will inform him about all what heppend during exams by sending him a email t
 ```bash
 pip install -r requirements.txt
 ```
-2 - At lignes 647-649 put your email information access and email receivers.
+2 - At lines 647-649 put your email information access and email receivers.
 
 
 # License 
