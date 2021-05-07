@@ -30,16 +30,16 @@ to tracks and know anything happened during exams using advanced Artificial inte
 ![](gifs/eye.gif)
 # How that can help teachers ?
 Its will inform him about all what heppend during exams by sending him an email that contain :<br>
--the webcam recorded video<br>
--screen recorded video (that will be upload via google drive) <br>
--discription file that contain all the actions that happend during exam with the exact time. <br>
+-The webcam recorded video<br>
+-Screen recorded video (that will be upload via google drive) <br>
+-Discription file that contain all the actions that happend during exam with the exact time. <br>
 
 <b>Exaple of action</b> : <br>
-- probably sudent try to cheat via book at 300 sec from the beginig of exam. <br>
-- probably student try to cheat via cell phone at 30 sec from the beginig of exam. <br>
-- no person detectcted at 250 sec from the beginig of exam <br>
-- more than one person deteceted. <br>
-- sound detected 'hello' at .... <br>
+- Probably sudent try to cheat via book at 300 sec from the beginig of exam. <br>
+- Probably student try to cheat via cell phone at 30 sec from the beginig of exam. <br>
+- No person detectcted at 250 sec from the beginig of exam <br>
+- More than one person deteceted. <br>
+- Sound detected 'hello' at .... <br>
 
 # Steps to run the demo
 1 - Install the dependencies
@@ -59,12 +59,12 @@ if you want to use main_v2 follow this article to configure DRIVE api and downlo
 and put inside project directory.
 
 # How teacher will use it?
-- generate .exe file for the project (or convert it to simple desktop app) <br>
-- create users.csv file that contain Students names , family names and specific password for each one. <br>
-- share the .exe and password with students ). <br>
-- student should execute .exe 2 min (just example ) before the start of exam <br>
+- Generate .exe file for the project (or convert it to simple desktop app) <br>
+- Create users.csv file that contain Students names , family names and specific password for each one. <br>
+- Share the .exe and password with students ). <br>
+- Student should execute .exe 2 min (just example ) before the start of exam <br>
 and acces the app using his name, family name and password. <br>
-- close after submitting their answers via email maybe.<br>
+- Close after submitting their answers via email maybe.<br>
 
 # License 
 
