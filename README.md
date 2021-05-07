@@ -13,7 +13,8 @@ to tracks and know anything happened during exams using advanced Artificial inte
 ```pydrive                   ```<br>
 
 # important technologies : 
-- face detection <br>
+- face landmarks <br>
+- eye tracking
 - person , book , cell phone detection<br>
 - voice recognition<br>
 - screen recording <br>
