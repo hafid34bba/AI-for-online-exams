@@ -33,10 +33,12 @@ Its will inform him about all what heppend during exams by sending him a email t
 - sound detected 'hello' at .... <br>
 
 # Steps to run the demo
-install the dependencies
+1 - install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
+2 - At lignes 647-649 put your email information access and email receivers.
+
 
 # License 
 
