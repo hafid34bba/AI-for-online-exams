@@ -4,13 +4,13 @@ to tracks and know anything happened during exams using advanced Artificial inte
 
 # Requirements
 
-```tensorflow	2.3.1        ``` 
-```opencv-python	4.4.0.46	 ```
-```speechrecognition	3.8.1	 ```
-```pandas	1.0.5	           ```
-```pyautogui	0.9.52	       ```
-```email                    ```
-```pydrive                  ```
+```tensorflow	2.3.1          ``` <br>
+```opencv-python	4.4.0.46	 ```<br>
+```speechrecognition	3.8.1	 ```<br>
+```pandas	1.0.5	             ```<br>
+```pyautogui	0.9.52	       ```<br>
+```email                     ```<br>
+```pydrive                   ```<br>
 
 
 # License 
