@@ -39,7 +39,12 @@ pip install -r requirements.txt
 ```
 2 - At lines 647-649 put your email information access and email receivers.
 
+# Which one main_v1 or main_v2 ? 
+main_v1 is faster tha main_v2 because it does'nt contain screen recoreder
 
+<b> Note </b>
+if you want to use main_v2 follow this article to configure DRIVE api and download client_secret.json<br>
+and put inside project directory.
 # License 
 
 ```
