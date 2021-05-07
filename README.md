@@ -29,7 +29,7 @@ to tracks and know anything happened during exams using advanced Artificial inte
 # Eyes recognition
 ![](gifs/eye.gif)
 # How that can help teachers ?
-Its will inform him about all what heppend during exams by sending him a email that contain :<br>
+Its will inform him about all what heppend during exams by sending him an email that contain :<br>
 -the webcam recorded video<br>
 -screen recorded video (that will be upload via google drive) <br>
 -discription file that contain all the actions that happend during exam with the exact time. <br>
