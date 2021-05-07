@@ -26,6 +26,8 @@ to tracks and know anything happened during exams using advanced Artificial inte
 ![](gifs/book.gif)
 # Cell phone detection
 ![](gifs/phone.gif)
+# Eyes recognition
+![](gifs/eye.gif)
 # How that can help teachers ?
 Its will inform him about all what heppend during exams by sending him a email that contain :<br>
 -the webcam recorded video<br>
