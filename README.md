@@ -64,7 +64,7 @@ and put inside project directory.
 - Share the .exe and password with students ). <br>
 - Student should execute .exe 2 min (just example ) before the start of exam <br>
 and acces the app using his name, family name and password. <br>
-- Close after submitting their answers via email maybe.<br>
+- Quit app after submitting their answers via email maybe.<br>
 
 # License 
 
