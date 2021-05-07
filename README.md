@@ -20,15 +20,15 @@ to tracks and know anything happened during exams using Artificial intelligence 
 - screen recording <br>
 - webcam recording <br>
 
-# Person detecttion
+# Person detection
 ![](gifs/person.gif)
-# Book detecttion
+# Book detection
 ![](gifs/book.gif)
 # Cell phone detection
 ![](gifs/phone.gif)
 # Eyes recognition
 ![](gifs/eye.gif)
-# How that can help teachers ?
+# How it  can help teachers ?
 Its will inform him about all what heppend during exams by sending him an email that contain :<br>
 -The webcam recorded video<br>
 -Screen recorded video (that will be upload via google drive) <br>
@@ -42,13 +42,13 @@ Its will inform him about all what heppend during exams by sending him an email 
 - Sound detected 'hello' at .... <br>
 
 # Steps to run the code
-1 - Install the dependencies
+1. Install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
-2 - At lines 647-649 put your email information access and email receivers.
+2. At lines `647-649` put your email information access and email receivers.
 
-3 - Download yolov3.weights file from here [weights](https://pjreddie.com/media/files/yolov3.weights)
+3. Download `yolov3.weights` file from  [here](https://pjreddie.com/media/files/yolov3.weights)
 and add to models folder.
 
 # Which one main_v1 or main_v2 ? 
