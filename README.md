@@ -41,7 +41,7 @@ Its will inform him about all what heppend during exams by sending him an email 
 - More than one person deteceted. <br>
 - Sound detected 'hello' at .... <br>
 
-# Steps to run the demo
+# Steps to run the code
 1 - Install the dependencies
 ```bash
 pip install -r requirements.txt
