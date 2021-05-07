@@ -32,6 +32,12 @@ Its will inform him about all what heppend during exams by sending him a email t
 - more than one person deteceted. <br>
 - sound detected 'hello' at .... <br>
 
+# Steps to run the demo
+install the dependencies
+```bash
+pip install -r requirements.txt
+```
+
 # License 
 
 ```
