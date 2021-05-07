@@ -19,9 +19,18 @@ to tracks and know anything happened during exams using advanced Artificial inte
 - screen recording <br>
 - webcam recording <br>
 
+# How that can help teachers ?
+Its will inform him about all what heppend during exams by sending him a email that contain :<br>
+-the webcam recorded video<br>
+-screen recorded video (that will be upload via google drive) <br>
+-discription file that contain all the actions that happend during exam with the exact time. <br>
 
-
-
+<b>Exaple of action</b> : <br>
+- probably sudent try to cheat via book at 300 sec from the beginig of exam. <br>
+- probably student try to cheat via cell phone at 30 sec from the beginig of exam. <br>
+- no person detectcted at 250 sec from the beginig of exam <br>
+- more than one person deteceted. <br>
+- sound detected 'hello' at .... <br>
 
 # License 
 
