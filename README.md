@@ -42,13 +42,13 @@ Its will inform him about all what heppend during exams by sending him an email 
 - Sound detected 'hello' at .... <br>
 
 # Steps to run the code
-1 - Install the dependencies
+1. Install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
-2 - At lines 647-649 put your email information access and email receivers.
+2. At lines 647-649 put your email information access and email receivers.
 
-3 - Download yolov3.weights file from  [here](https://pjreddie.com/media/files/yolov3.weights)
+3. Download yolov3.weights file from  [here](https://pjreddie.com/media/files/yolov3.weights)
 and add to models folder.
 
 # Which one main_v1 or main_v2 ? 
