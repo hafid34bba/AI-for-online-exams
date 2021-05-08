@@ -20,13 +20,13 @@ to tracks and know anything happened during exams using Artificial intelligence 
 - screen recording <br>
 - webcam recording <br>
 
-# Person detecttion
+# Person detection
 ![](gifs/person.gif)
-# Book detecttion
+# Book detection
 ![](gifs/book.gif)
 # Cell phone detection
 ![](gifs/phone.gif)
-# Eyes recognition
+# Eyes tracking
 ![](gifs/eye.gif)
 # How that can help teachers ?
 Its will inform him about all what heppend during exams by sending him an email that contain :<br>
